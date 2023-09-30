@@ -1,14 +1,14 @@
 'use strict';
 
 const names = [
-  'abul',
-  'babul',
-  'cabul',
-  'abul',
-  'babul',
-  'cabul',
-  'gabul',
-  'ebul',
+  'rahi',
+  'bali',
+  'camel',
+  'rahal',
+  'mahi',
+  'ashik',
+  'tonmoy',
+  'sagar',
 ];
 
 function removeDuplicate(names) {
